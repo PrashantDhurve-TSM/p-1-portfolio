@@ -10,3 +10,7 @@ what i know ----
 
 @media
 @keyframe
+gsap 
+html
+css 
+basic js function js stylinhgit 
